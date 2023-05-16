@@ -3,3 +3,9 @@
 prva promjena
 
 Ovu linij dodao sam gore na githubu preko explorera, nakon kika na olovku edit.
+
+
+Treca linija lokalno a ova promjena napravljena je nakon sto smo isntalirali git extensions.
+
+Ovo je ova linija nakon sto smo instalirali git extensions.
+
